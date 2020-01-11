@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".user_info">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="12dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/ic_account_box_black_24dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                app:srcCompat="@drawable/ic_account_circle_black_24dp"
+                android:paddingTop="140dp"
+                android:paddingLeft="75dp"
+                />
+
+            <TextView
+                android:id="@+id/name_user"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/titillium_web_semibold"
+                android:textColor="#000"
+                android:paddingLeft="10dp"
+                android:textSize="27dp"
+                android:paddingTop="130dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                app:srcCompat="@drawable/college"
+                android:paddingTop="200dp"
+                android:paddingLeft="75dp"
+                />
+
+            <TextView
+                android:id="@+id/college_user"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/titillium_web_semibold"
+                android:textColor="#000"
+                android:textSize="27dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="190dp" />
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                app:srcCompat="@drawable/college"
+                android:paddingTop="270dp"
+                android:paddingLeft="75dp"
+                />
+
+            <TextView
+                android:id="@+id/branch_user"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:fontFamily="@font/titillium_web_semibold"
+                android:textColor="#000"
+                android:textSize="27dp"
+                android:paddingTop="260dp" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                app:srcCompat="@drawable/college"
+                android:paddingTop="340dp"
+                android:paddingLeft="75dp"
+                />
+
+            <TextView
+                android:id="@+id/semester_user"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:fontFamily="@font/titillium_web_semibold"
+                android:textColor="#000"
+                android:textSize="27dp"
+                android:paddingTop="330dp" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                app:srcCompat="@drawable/college"
+                android:paddingTop="410dp"
+                android:paddingLeft="75dp"
+                />
+
+            <TextView
+                android:id="@+id/rollno_user"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:fontFamily="@font/titillium_web_semibold"
+                android:textColor="#000"
+                android:textSize="27dp"
+                android:paddingTop="400dp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                app:srcCompat="@drawable/web"
+                android:paddingTop="466dp"
+                android:paddingLeft="75dp"
+                />
+
+            <TextView
+                android:id="@+id/cllg_web"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:fontFamily="@font/titillium_web_semibold"
+                android:textColor="#000"
+                android:textSize="27dp"
+                android:paddingTop="456dp"
+                android:layout_marginBottom="4dp"
+               />
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+    </android.support.v7.widget.CardView>
+
+</ScrollView>

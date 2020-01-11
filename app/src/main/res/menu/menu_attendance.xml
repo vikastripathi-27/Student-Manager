@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/total"
+        android:orderInCategory="100"
+        android:title="Total Attendance"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/timeline"
+        android:orderInCategory="200"
+        android:title="Timeline"
+        app:showAsAction="never" />
+<!--    <item-->
+<!--        android:id="@+id/log_past"-->
+<!--        android:orderInCategory="300"-->
+<!--        android:title="Log Past Attendance"-->
+<!--        app:showAsAction="never" />-->
+</menu>

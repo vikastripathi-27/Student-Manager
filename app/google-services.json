@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361570683162",
+    "firebase_url": "https://studentmanager-4ae91.firebaseio.com",
+    "project_id": "studentmanager-4ae91",
+    "storage_bucket": "studentmanager-4ae91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361570683162:android:6323fbb5536de683",
+        "android_client_info": {
+          "package_name": "com.nextlink.studentmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361570683162-u8gsr2qd28liugolsbmlohid31oq0jk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextlink.studentmanager",
+            "certificate_hash": "f1fdb6e51ca630a57c39da464e480fd914d2bf33"
+          }
+        },
+        {
+          "client_id": "361570683162-fdnapsimmfqjee7g171vv4vdpsdaaa6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWrbQN05k6pCLnwUmFrPO0oZqi24YRR2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361570683162-fdnapsimmfqjee7g171vv4vdpsdaaa6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

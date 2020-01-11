@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Student Manager</string>
+    <string name="email_id">  Enter your email-id</string>
+    <string name="password">  Enter your password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">New user? Sign up</string>
+    <string name="sign_up">Register</string>
+    <string name="name">  Enter your name</string>
+    <string name="semester">  Enter your semester</string>
+    <string name="rollno">  Enter your rollno</string>
+    <string name="college">  Enter your college name</string>
+    <string name="branch">  Enter your branch</string>
+    <string name="lecture1">Enter lecture 1</string>
+    <string name="lecture2">Enter lecture 2</string>
+    <string name="lecture3">Enter lecture 3</string>
+    <string name="lecture7">Enter lecture 7</string>
+    <string name="lecture6">Enter lecture 6</string>
+    <string name="lecture5">Enter lecture 5</string>
+    <string name="lecture4">Enter lecture 4</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Settings Activity strings -->
+    <string name="sevendays_setting">Enable 7 Days of the Week</string>
+    <string name="school_website_setting">Change school website</string>
+    <string name="school_website_setting_summary">Change URL of your school website</string>
+
+    <!-- Fragments strings -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="select_snackbar">Please, select one item.</string>
+    <string name="selected">Selected</string>
+
+
+    <string name="add_subject">Add subject</string>
+    <string name="subject">Subject</string>
+    <string name="edit_subject">Edit subject</string>
+    <string name="teacher">Teacher</string>
+    <string name="room">Room</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="time_to_dialog">To:</string>
+    <string name="time_from_dialog">From:</string>
+    <string name="subject_dialog">Subject:</string>
+    <string name="teacher_dialog">Teacher:</string>
+    <string name="room_dialog">Room:</string>
+    <string name="select_time">Select time</string>
+    <string name="select_color">Select color</string>
+    <string name="choose_time">Choose time</string>
+    <string name="choose_date">Choose date</string>
+    <string name="choose_color">Choose color</string>
+    <string name="delete">Delete</string>
+    <string name="seven_days_of_the_week">7 Days of the Week</string>
+    <string name="field_error">field can not be empty!</string>
+    <string name="time_error">Time field can not be empty!</string>
+
+    <!-- Add Your Subject Activity strings -->
+    <string name="title_activity_subject">SubjectActivity</string>
+    <string name="Subject">Add Your Subject</string>
+    <!--<string name="select_date">Select date</string>-->
+    <!--<string name="deadline_dialog">Deadline:</string>-->
+    <!--<string name="deadline">Deadline</string>-->
+    <string name="tname_dialog">Teacher Name:</string>
+    <string name="tname">Teacher Name</string>
+    <!--<string name="date_error">Date field can not be empty!</string>-->
+    <string name="edit_Subject">Edit Subject</string>
+    <string name="add_Subject">Add Subject</string>
+    <!--<string name="deadline_snackbar">"Deadline field can not be empty!</string>-->
+    <!--<string name="date">Date</string>-->
+
+
+</resources>
